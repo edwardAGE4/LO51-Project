@@ -1,0 +1,15 @@
+
+Connecté à : Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - Production
+With the Partitioning and Real Application Testing options
+
+Fichier d'export créé par EXPORT:V11.02.00 via le chemin classique
+import effectué dans le jeu de caractères WE8MSWIN1252 et le jeu NCHAR AL16UTF16
+. . Table "AVION"                             ignorée
+
+. . Table "COMPETENT_IOT"                     ignorée
+
+. . Table "PILOTE"                            ignorée
+
+. . Table "VOL"                               ignorée
+
+Procédure d'import terminée avec succès sans avertissements.

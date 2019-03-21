@@ -1,0 +1,6 @@
+USERID=system/dbamanager
+File= c:\backup\export\expfull.dmp
+Log= c:\backup\export\expfull.log
+FULL=Y
+Statistics=None
+Buffer=100000 

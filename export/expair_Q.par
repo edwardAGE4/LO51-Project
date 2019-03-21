@@ -1,0 +1,8 @@
+USERID=air/air
+File= c:\backup\export\expair_Q.dmp
+Log= c:\backup\export\expair_Q.log
+Tables=VOL
+Query="where VILLEDEP='Paris' OR VILLEARR='Paris' "
+Rows=Y
+Statistics=None
+Buffer=100000 

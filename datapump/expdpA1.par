@@ -1,0 +1,5 @@
+USERID=scott/TIGER
+Directory=export_dp
+dumpfile=edpsco01.dmp
+Logfile=edpsco01.log
+Content=all

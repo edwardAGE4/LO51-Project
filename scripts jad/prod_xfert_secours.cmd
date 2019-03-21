@@ -1,0 +1,2 @@
+copy "F:\backup\backup_froid\*.*" "S:\backup_secours"                                                                                                                                                                                                          
+exit;                                                                                                                                                                                                                                                          

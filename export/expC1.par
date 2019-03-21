@@ -1,0 +1,6 @@
+USERID=scott/TIGER
+File= c:\backup\export\expC1.dmp
+Log= c:\backup\export\expC1.log
+Tables=employes
+Rows=Y
+Buffer=100000

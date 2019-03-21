@@ -1,0 +1,9 @@
+USERID=system/dbamanager
+File= c:\backup\export\exp1\expsco01.dmp
+Log= c:\backup\import\imp3\impair03.log
+Fromuser=scott
+touser=air
+TABLES=dept
+ROWS=Y
+Ignore=N
+buffer=100000

@@ -1,0 +1,1 @@
+sqlplus scott/TIGER@prod @req6.sql monitor6.bat

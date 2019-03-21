@@ -1,0 +1,6 @@
+USERID=air/air
+File= c:\backup\export\expair.dmp
+Log= c:\backup\export\expair.log
+ROWS=Y
+Statistics=None
+Buffer=100000 

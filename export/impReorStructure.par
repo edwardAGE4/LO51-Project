@@ -1,0 +1,5 @@
+USERID=air/air
+File= c:\backup\export\expair\expair.dmp
+Log= c:\backup\import\impair\impair01.log
+Indexfile=c:\backup\export\expair\air_create_tables_index.sql
+buffer=100000

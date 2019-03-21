@@ -1,0 +1,8 @@
+USERID=gcom/gcom
+Directory=export_dp
+dumpfile=EDPSCO01.DMP
+Logfile=ipdsco04.log
+REMAP_SCHEMA=scott:gcom
+Remap_tablespace=USERS:GCOM_DATA
+table_exists_action=replace
+content=all

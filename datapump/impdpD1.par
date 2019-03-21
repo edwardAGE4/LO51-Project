@@ -1,0 +1,5 @@
+USERID=scott/TIGER
+Directory=export_dp
+dumpfile=impdpD1.dmp
+Logfile=impdpD1.log
+content=all

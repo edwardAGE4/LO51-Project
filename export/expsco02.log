@@ -1,0 +1,9 @@
+
+Connecté à : Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - Production
+With the Partitioning and Real Application Testing options
+Export fait dans le jeu de car WE8MSWIN1252 et jeu de car NCHAR AL16UTF16
+
+Prêt à exporter les tables spécifiées ... via le chemin classique...
+. . export de la table                            DEPT          4 lignes exportées         <
+. . export de la table                             EMP         11 lignes exportées         <
+Procédure d'export terminée avec succès sans avertissements.

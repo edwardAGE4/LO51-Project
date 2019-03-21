@@ -1,0 +1,8 @@
+USERID=air/air
+File= c:\backup\export\expair_T.dmp
+Log= c:\backup\export\expair_T.log
+Tables=VOL,PILOTE
+Query="where numpilote <5 "
+Rows=Y
+Statistics=None
+Buffer=100000 

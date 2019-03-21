@@ -1,0 +1,5 @@
+USERID=scott/TIGER
+Directory=export_dp
+dumpfile=edpsco_C01.dmp
+Logfile=edpsco_C01.log
+TABLES=employes

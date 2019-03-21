@@ -1,0 +1,8 @@
+USERID=scott/TIGER
+File= c:\backup\export\expsco03.dmp
+Log= c:\backup\export\expsco03.log
+Tables=EMP
+Query="where deptno = 10"
+Rows=Y
+Statistics=None
+Buffer=100000 

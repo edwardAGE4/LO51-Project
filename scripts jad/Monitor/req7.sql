@@ -1,0 +1,5 @@
+DELETE 
+	FROM EMPLOYES 
+		WHERE EMPNO = 7396;
+ROLLBACK;																
+EXIT;	

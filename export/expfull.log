@@ -1,0 +1,446 @@
+
+Connecté à : Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - Production
+With the Partitioning and Real Application Testing options
+Export fait dans le jeu de car WE8MSWIN1252 et jeu de car NCHAR AL16UTF16
+
+Prêt à exporter l'intégralité de la base de données ...
+. export des définitions de tablespace
+. export des profils
+. export des définitions d'utilisateur
+. export des rôles
+. coût ressource export
+. export des définitions de rollback segment
+. export des liens de base de données (DATABASE LINKS)
+. export des numéros de séquence
+. export des alias de répertoire
+. export des espaces de stockage des noms de contexte
+. export des noms de bibliothèque de fonctions étrangères
+. export des synonymes de type PUBLIC
+. export des synonymes de type PRIVATE
+. export des définitions de type d'objet
+. export des actions et objets procéduraux du système
+. export des actions et objets procéduraux de pré-schéma
+. export des définitions de cluster
+. Prêt à exporter les tables SYSTEM ... via le chemin classique...
+. . export de la table                     DEF$_AQCALL          0 lignes exportées         <
+. . export de la table                    DEF$_AQERROR          0 lignes exportées         <
+. . export de la table                   DEF$_CALLDEST          0 lignes exportées         <
+. . export de la table                DEF$_DEFAULTDEST          0 lignes exportées         <
+. . export de la table                DEF$_DESTINATION          0 lignes exportées         <
+. . export de la table                      DEF$_ERROR          0 lignes exportées         <
+. . export de la table                        DEF$_LOB          0 lignes exportées         <
+. . export de la table                     DEF$_ORIGIN          0 lignes exportées         <
+. . export de la table                 DEF$_PROPAGATOR          0 lignes exportées         <
+. . export de la table        DEF$_PUSHED_TRANSACTIONS          0 lignes exportées         <
+. . export de la table                             OL$
+. . export de la table                        OL$HINTS
+. . export de la table                        OL$NODES
+. . export de la table         REPCAT$_AUDIT_ATTRIBUTE          2 lignes exportées         <
+. . export de la table            REPCAT$_AUDIT_COLUMN          0 lignes exportées         <
+. . export de la table            REPCAT$_COLUMN_GROUP          0 lignes exportées         <
+. . export de la table                REPCAT$_CONFLICT          0 lignes exportées         <
+. . export de la table                     REPCAT$_DDL          0 lignes exportées         <
+. . export de la table              REPCAT$_EXCEPTIONS          0 lignes exportées         <
+. . export de la table               REPCAT$_EXTENSION          0 lignes exportées         <
+. . export de la table          REPCAT$_FLAVOR_OBJECTS          0 lignes exportées         <
+. . export de la table                 REPCAT$_FLAVORS          0 lignes exportées         <
+. . export de la table               REPCAT$_GENERATED          0 lignes exportées         <
+. . export de la table          REPCAT$_GROUPED_COLUMN          0 lignes exportées         <
+. . export de la table       REPCAT$_INSTANTIATION_DDL          0 lignes exportées         <
+. . export de la table             REPCAT$_KEY_COLUMNS          0 lignes exportées         <
+. . export de la table            REPCAT$_OBJECT_PARMS          0 lignes exportées         <
+. . export de la table            REPCAT$_OBJECT_TYPES         28 lignes exportées         <
+. . export de la table        REPCAT$_PARAMETER_COLUMN          0 lignes exportées         <
+. . export de la table                REPCAT$_PRIORITY          0 lignes exportées         <
+. . export de la table          REPCAT$_PRIORITY_GROUP          0 lignes exportées         <
+. . export de la table       REPCAT$_REFRESH_TEMPLATES          0 lignes exportées         <
+. . export de la table                  REPCAT$_REPCAT          0 lignes exportées         <
+. . export de la table               REPCAT$_REPCATLOG          0 lignes exportées         <
+. . export de la table               REPCAT$_REPCOLUMN          0 lignes exportées         <
+. . export de la table          REPCAT$_REPGROUP_PRIVS          0 lignes exportées         <
+. . export de la table               REPCAT$_REPOBJECT          0 lignes exportées         <
+. . export de la table                 REPCAT$_REPPROP          0 lignes exportées         <
+. . export de la table               REPCAT$_REPSCHEMA          0 lignes exportées         <
+. . export de la table     REPCAT$_RESOL_STATS_CONTROL          0 lignes exportées         <
+. . export de la table              REPCAT$_RESOLUTION          0 lignes exportées         <
+. . export de la table       REPCAT$_RESOLUTION_METHOD         19 lignes exportées         <
+. . export de la table   REPCAT$_RESOLUTION_STATISTICS          0 lignes exportées         <
+. . export de la table           REPCAT$_RUNTIME_PARMS          0 lignes exportées         <
+. . export de la table            REPCAT$_SITE_OBJECTS          0 lignes exportées         <
+. . export de la table               REPCAT$_SITES_NEW          0 lignes exportées         <
+. . export de la table               REPCAT$_SNAPGROUP          0 lignes exportées         <
+. . export de la table        REPCAT$_TEMPLATE_OBJECTS          0 lignes exportées         <
+. . export de la table          REPCAT$_TEMPLATE_PARMS          0 lignes exportées         <
+. . export de la table      REPCAT$_TEMPLATE_REFGROUPS          0 lignes exportées         <
+. . export de la table          REPCAT$_TEMPLATE_SITES          0 lignes exportées         <
+. . export de la table         REPCAT$_TEMPLATE_STATUS          3 lignes exportées         <
+. . export de la table        REPCAT$_TEMPLATE_TARGETS          0 lignes exportées         <
+. . export de la table          REPCAT$_TEMPLATE_TYPES          2 lignes exportées         <
+. . export de la table     REPCAT$_USER_AUTHORIZATIONS          0 lignes exportées         <
+. . export de la table        REPCAT$_USER_PARM_VALUES          0 lignes exportées         <
+. . export de la table         SQLPLUS_PRODUCT_PROFILE          0 lignes exportées         <
+. Prêt à exporter les tables OUTLN ... via le chemin classique...
+. . export de la table                             OL$          0 lignes exportées         <
+. . export de la table                        OL$HINTS          0 lignes exportées         <
+. . export de la table                        OL$NODES          0 lignes exportées         <
+. Prêt à exporter les tables SYSMAN ... via le chemin classique...
+. . export de la table        AQ$_MGMT_LOADER_QTABLE_G          0 lignes exportées         <
+. . export de la table        AQ$_MGMT_LOADER_QTABLE_H          0 lignes exportées         <
+. . export de la table        AQ$_MGMT_LOADER_QTABLE_I          0 lignes exportées         <
+. . export de la table        AQ$_MGMT_LOADER_QTABLE_L          0 lignes exportées         <
+. . export de la table        AQ$_MGMT_LOADER_QTABLE_S          2 lignes exportées         <
+. . export de la table        AQ$_MGMT_LOADER_QTABLE_T          0 lignes exportées         <
+. . export de la table        AQ$_MGMT_NOTIFY_QTABLE_G          0 lignes exportées         <
+. . export de la table        AQ$_MGMT_NOTIFY_QTABLE_H          0 lignes exportées         <
+. . export de la table        AQ$_MGMT_NOTIFY_QTABLE_I          0 lignes exportées         <
+. . export de la table        AQ$_MGMT_NOTIFY_QTABLE_L          0 lignes exportées         <
+. . export de la table        AQ$_MGMT_NOTIFY_QTABLE_S          2 lignes exportées         <
+. . export de la table        AQ$_MGMT_NOTIFY_QTABLE_T          0 lignes exportées         <
+. . export de la table               EMDW_TRACE_CONFIG          9 lignes exportées         <
+. . export de la table      EM_PAGE_CONDITION_METADATA          7 lignes exportées         <
+. . export de la table           EM_PAGE_CUST_METADATA          4 lignes exportées         <
+. . export de la table                  ESM_COLLECTION        339 lignes exportées         <
+. . export de la table            EUME2E_ASSOCS_LOOKUP          9 lignes exportées         <
+. . export de la table             MGMT_ADMIN_LICENSES         19 lignes exportées         <
+. . export de la table             MGMT_AGENT_SEC_INFO          1 lignes exportées         <
+. . export de la table           MGMT_ALL_TARGET_PROPS          5 lignes exportées         <
+. . export de la table                 MGMT_ANNOTATION         23 lignes exportées         <
+. . export de la table     MGMT_ARU_FAMILY_PRODUCT_MAP       1660 lignes exportées         <
+. . export de la table              MGMT_ARU_LANGUAGES         40 lignes exportées         <
+. . export de la table         MGMT_ARU_OUI_COMPONENTS        393 lignes exportées         <
+. . export de la table              MGMT_ARU_PLATFORMS         76 lignes exportées         <
+. . export de la table    MGMT_ARU_PRODUCT_RELEASE_MAP       5956 lignes exportées         <
+. . export de la table               MGMT_ARU_PRODUCTS        744 lignes exportées         <
+. . export de la table               MGMT_ARU_RELEASES        863 lignes exportées         <
+. . export de la table          MGMT_AUDIT_DESTINATION          1 lignes exportées         <
+. . export de la table               MGMT_AUDIT_MASTER          1 lignes exportées         <
+. . export de la table               MGMT_AVAILABILITY        228 lignes exportées         <
+. . export de la table        MGMT_AVAILABILITY_MARKER          5 lignes exportées         <
+. . export de la table         MGMT_AVAILABLE_SEARCHES         15 lignes exportées         <
+. . export de la table        MGMT_BAM_OSESSION_ALERTS          0 lignes exportées         <
+. . export de la table       MGMT_BAM_OSESSION_METRICS          0 lignes exportées         <
+. . export de la table        MGMT_BAM_OSESSION_STATUS          0 lignes exportées         <
+. . export de la table     MGMT_BLACKOUT_PROXY_TARGETS          5 lignes exportées         <
+. . export de la table            MGMT_BLACKOUT_REASON         60 lignes exportées         <
+. . export de la table          MGMT_BLACKOUT_SCHEDULE          0 lignes exportées         <
+. . export de la table           MGMT_BLACKOUT_WINDOWS          0 lignes exportées         <
+. . export de la table               MGMT_BSLN_METRICS          6 lignes exportées         <
+. . export de la table               MGMT_BSLN_RAWDATA          0 lignes exportées         <
+. . export de la table                  MGMT_CALLBACKS         87 lignes exportées         <
+. . export de la table                 MGMT_CATEGORIES         12 lignes exportées         <
+. . export de la table           MGMT_CATEGORY_CLASSES          2 lignes exportées         <
+. . export de la table               MGMT_CATEGORY_MAP        637 lignes exportées         <
+. . export de la table     MGMT_COLLECTION_CREDENTIALS          0 lignes exportées         <
+. . export de la table    MGMT_COLLECTION_METRIC_TASKS        195 lignes exportées         <
+. . export de la table                MGMT_COLLECTIONS        201 lignes exportées         <
+. . export de la table    MGMT_COLLECTION_TASK_CONTEXT          0 lignes exportées         <
+. . export de la table           MGMT_COLLECTION_TASKS         28 lignes exportées         <
+. . export de la table  MGMT_COLLECTION_TEMPLATE_CREDS          0 lignes exportées         <
+. . export de la table         MGMT_COLLECTION_WORKERS          0 lignes exportées         <
+. . export de la table          MGMT_COLL_ITEM_METRICS        217 lignes exportées         <
+. . export de la table       MGMT_COLL_ITEM_PROPERTIES         48 lignes exportées         <
+. . export de la table                 MGMT_COLL_ITEMS        254 lignes exportées         <
+. . export de la table          MGMT_CORRECTIVE_ACTION          2 lignes exportées         <
+. . export de la table              MGMT_CREATED_USERS          4 lignes exportées         <
+. . export de la table     MGMT_CREDENTIAL_SET_COLUMNS         86 lignes exportées         <
+. . export de la table    MGMT_CREDENTIAL_SET_COL_VALS          8 lignes exportées         <
+. . export de la table            MGMT_CREDENTIAL_SETS         35 lignes exportées         <
+. . export de la table               MGMT_CREDENTIALS2          3 lignes exportées         <
+. . export de la table    MGMT_CREDENTIAL_TYPE_COLUMNS         45 lignes exportées         <
+. . export de la table   MGMT_CREDENTIAL_TYPE_COL_VALS          3 lignes exportées         <
+. . export de la table        MGMT_CREDENTIAL_TYPE_REF          9 lignes exportées         <
+. . export de la table           MGMT_CREDENTIAL_TYPES         19 lignes exportées         <
+. . export de la table         MGMT_CS_CONFIG_STANDARD          3 lignes exportées         <
+. . export de la table               MGMT_CS_HIERARCHY        117 lignes exportées         <
+. . export de la table                 MGMT_CS_KEYWORD          3 lignes exportées         <
+. . export de la table                    MGMT_CS_RULE         94 lignes exportées         <
+. . export de la table              MGMT_CS_RULEFOLDER         23 lignes exportées         <
+. . export de la table       MGMT_CURRENT_AVAILABILITY          5 lignes exportées         <
+. . export de la table      MGMT_CURRENT_METRIC_ERRORS          3 lignes exportées         <
+. . export de la table            MGMT_CURRENT_METRICS        316 lignes exportées         <
+. . export de la table          MGMT_CURRENT_VIOLATION         60 lignes exportées         <
+. . export de la table        MGMT_DB_CONTROLFILES_ECM          8 lignes exportées         <
+. . export de la table           MGMT_DB_DATAFILES_ECM         28 lignes exportées         <
+. . export de la table     MGMT_DB_DBNINSTANCEINFO_ECM          2 lignes exportées         <
+. . export de la table            MGMT_DB_FEATUREUSAGE        152 lignes exportées         <
+. . export de la table       MGMT_DB_HDM_METRIC_HELPER          1 lignes exportées         <
+. . export de la table         MGMT_DB_INIT_PARAMS_ECM        682 lignes exportées         <
+. . export de la table     MGMT_DB_LATEST_HDM_FINDINGS          0 lignes exportées         <
+. . export de la table             MGMT_DB_LICENSE_ECM          2 lignes exportées         <
+. . export de la table             MGMT_DB_OPTIONS_ECM         22 lignes exportées         <
+. . export de la table       MGMT_DB_RECTSSETTINGS_ECM          2 lignes exportées         <
+. . export de la table     MGMT_DB_RECUSERSETTINGS_ECM          4 lignes exportées         <
+. . export de la table            MGMT_DB_REDOLOGS_ECM         12 lignes exportées         <
+. . export de la table       MGMT_DB_ROLLBACK_SEGS_ECM          2 lignes exportées         <
+. . export de la table                 MGMT_DB_SGA_ECM         18 lignes exportées         <
+. . export de la table         MGMT_DB_TABLESPACES_ECM         26 lignes exportées         <
+. . export de la table       MGMT_DELTA_COMP_SUMMARIES          0 lignes exportées         <
+. . export de la table       MGMT_DELTA_SUMMARY_ERRORS          0 lignes exportées         <
+. . export de la table                MGMT_DELTA_ENTRY        177 lignes exportées         <
+. . export de la table         MGMT_DELTA_ENTRY_VALUES        490 lignes exportées         <
+. . export de la table                  MGMT_DELTA_IDS         72 lignes exportées         <
+. . export de la table            MGMT_DELTA_ID_VALUES        199 lignes exportées         <
+. . export de la table                 MGMT_DELTA_SNAP         50 lignes exportées         <
+. . export de la table        MGMT_DEPLOYMENT_SECTIONS          1 lignes exportées         <
+. . export de la table       MGMT_DIROBJ_USERS_HOTLIST          0 lignes exportées         <
+. . export de la table                 MGMT_DM_ALITEMS         48 lignes exportées         <
+. . export de la table               MGMT_DM_RULEENTRY         45 lignes exportées         <
+. . export de la table           MGMT_DM_RULETEMPLATES         19 lignes exportées         <
+. . export de la table                MGMT_ECM_ARU_MAP         29 lignes exportées         <
+. . export de la table         MGMT_ECM_CSA_OUT_OF_BOX          1 lignes exportées         <
+. . export de la table           MGMT_ECM_GEN_SNAPSHOT         26 lignes exportées         <
+. . export de la table    MGMT_ECM_HOST_CONFIGS_TO_DEL          1 lignes exportées         <
+. . export de la table     MGMT_ECM_MD_ALL_TBL_COLUMNS        702 lignes exportées         <
+. . export de la table           MGMT_ECM_MD_HIST_TBLS         39 lignes exportées         <
+. . export de la table              MGMT_ECM_RESOURCES         14 lignes exportées         <
+. . export de la table    MGMT_ECM_SNAP_COMPONENT_INFO         16 lignes exportées         <
+. . export de la table               MGMT_ECM_SNAPSHOT          5 lignes exportées         <
+. . export de la table    MGMT_ECM_SNAPSHOT_MD_COLUMNS        837 lignes exportées         <
+. . export de la table     MGMT_ECM_SNAPSHOT_MD_TABLES        122 lignes exportées         <
+. . export de la table      MGMT_ECM_SNAPSHOT_METADATA         53 lignes exportées         <
+. . export de la table                   MGMT_EMD_PING          1 lignes exportées         <
+. . export de la table             MGMT_EMD_PING_CHECK          1 lignes exportées         <
+. . export de la table     MGMT_ENTERPRISE_CREDENTIALS          0 lignes exportées         <
+. . export de la table               MGMT_ERROR_MASTER         12 lignes exportées         <
+. . export de la table                 MGMT_ESA_REPORT       5305 lignes exportées         <
+. . export de la table         MGMT_FAILOVER_CALLBACKS          4 lignes exportées         <
+. . export de la table             MGMT_FAILOVER_TABLE          1 lignes exportées         <
+. . export de la table         MGMT_FBP_PATCHING_GUIDS          3 lignes exportées         <
+. . export de la table           MGMT_FLAT_ROLE_GRANTS          0 lignes exportées         <
+. . export de la table          MGMT_FLAT_TARGET_ASSOC          3 lignes exportées         <
+. . export de la table        MGMT_GROUP_DEFAULT_CHART          9 lignes exportées         <
+. . export de la table                MGMT_HA_INFO_ECM          2 lignes exportées         <
+. . export de la table                    MGMT_HA_MTTR          1 lignes exportées         <
+. . export de la table         MGMT_HA_RMAN_CONFIG_ECM          2 lignes exportées         <
+. . export de la table             MGMT_HC_CPU_DETAILS          4 lignes exportées         <
+. . export de la table        MGMT_HC_FS_MOUNT_DETAILS         12 lignes exportées         <
+. . export de la table         MGMT_HC_HARDWARE_MASTER          4 lignes exportées         <
+. . export de la table          MGMT_HC_IOCARD_DETAILS          4 lignes exportées         <
+. . export de la table             MGMT_HC_NIC_DETAILS          8 lignes exportées         <
+. . export de la table           MGMT_HC_OS_COMPONENTS         20 lignes exportées         <
+. . export de la table           MGMT_HC_OS_PROPERTIES         64 lignes exportées         <
+. . export de la table              MGMT_HC_OS_SUMMARY          4 lignes exportées         <
+. . export de la table          MGMT_HC_SYSTEM_SUMMARY          4 lignes exportées         <
+. . export de la table       MGMT_HC_VENDOR_SW_SUMMARY         72 lignes exportées         <
+. . export de la table           MGMT_HOST_CREDENTIALS          0 lignes exportées         <
+. . export de la table     MGMT_HTTP_SESSION_CALLBACKS          1 lignes exportées         <
+. . export de la table              MGMT_INV_COMPONENT        576 lignes exportées         <
+. . export de la table              MGMT_INV_CONTAINER          8 lignes exportées         <
+. . export de la table     MGMT_INV_CONTAINER_PROPERTY         12 lignes exportées         <
+. . export de la table        MGMT_INV_DEPENDENCY_RULE       1064 lignes exportées         <
+. . export de la table                MGMT_INV_SUMMARY          8 lignes exportées         <
+. . export de la table     MGMT_IP_ELEM_DEFAULT_PARAMS        130 lignes exportées         <
+. . export de la table      MGMT_IP_ELEM_PARAM_CLASSES        116 lignes exportées         <
+. . export de la table       MGMT_IP_ELEM_TARGET_TYPES         86 lignes exportées         <
+. . export de la table              MGMT_IP_REPORT_DEF        124 lignes exportées         <
+. . export de la table     MGMT_IP_REPORT_DEF_ELEMENTS        349 lignes exportées         <
+. . export de la table    MGMT_IP_REPORT_DEF_JIT_TYPES        135 lignes exportées         <
+. . export de la table         MGMT_IP_REPORT_ELEM_DEF         77 lignes exportées         <
+. . export de la table      MGMT_IP_REPORT_ELEM_PARAMS       2167 lignes exportées         <
+. . export de la table          MGMT_IP_SQL_STATEMENTS         31 lignes exportées         <
+. . export de la table                        MGMT_JOB          5 lignes exportées         <
+. . export de la table              MGMT_JOB_CALLBACKS          6 lignes exportées         <
+. . export de la table                MGMT_JOB_COMMAND        146 lignes exportées         <
+. . export de la table    MGMT_JOB_COMMAND_BLOCK_PROCS          3 lignes exportées         <
+. . export de la table            MGMT_JOB_CREDENTIALS          0 lignes exportées         <
+. . export de la table            MGMT_JOB_CRED_PARAMS        101 lignes exportées         <
+. . export de la table    MGMT_JOB_DISPLAY_ERROR_CODES          8 lignes exportées         <
+. . export de la table       MGMT_JOB_EMD_STATUS_QUEUE          0 lignes exportées         <
+. . export de la table                  MGMT_JOB_EVENT          1 lignes exportées         <
+. . export de la table               MGMT_JOB_EXECPLAN       1849 lignes exportées         <
+. . export de la table           MGMT_JOB_EXEC_SUMMARY         22 lignes exportées         <
+. . export de la table              MGMT_JOB_EXECUTION         12 lignes exportées         <
+. . export de la table            MGMT_JOB_EXT_TARGETS          0 lignes exportées         <
+. . export de la table                MGMT_JOB_HISTORY         36 lignes exportées         <
+. . export de la table           MGMT_JOB_LARGE_PARAMS          2 lignes exportées         <
+. . export de la table              MGMT_JOB_LOCK_INFO          6 lignes exportées         <
+. . export de la table           MGMT_JOB_LOCK_TARGETS          6 lignes exportées         <
+. . export de la table                 MGMT_JOB_OUTPUT          8 lignes exportées         <
+. . export de la table              MGMT_JOB_PARAMETER          8 lignes exportées         <
+. . export de la table           MGMT_JOB_PARAM_SOURCE        652 lignes exportées         <
+. . export de la table            MGMT_JOB_PROP_PARAMS         25 lignes exportées         <
+. . export de la table         MGMT_JOB_PURGE_CRITERIA          3 lignes exportées         <
+. . export de la table         MGMT_JOB_PURGE_POLICIES          4 lignes exportées         <
+. . export de la table           MGMT_JOB_PURGE_VALUES          3 lignes exportées         <
+. . export de la table               MGMT_JOB_SCHEDULE          3 lignes exportées         <
+. . export de la table               MGMT_JOB_SEC_INFO         12 lignes exportées         <
+. . export de la table    MGMT_JOB_SINGLE_TARGET_TYPES        137 lignes exportées         <
+. . export de la table             MGMT_JOB_SQL_PARAMS         10 lignes exportées         <
+. . export de la table          MGMT_JOB_STATE_CHANGES         55 lignes exportées         <
+. . export de la table            MGMT_JOB_STEP_PARAMS       5277 lignes exportées         <
+. . export de la table           MGMT_JOB_SUBST_PARAMS         24 lignes exportées         <
+. . export de la table      MGMT_JOB_TYPE_DISPLAY_INFO         87 lignes exportées         <
+. . export de la table              MGMT_JOB_TYPE_INFO        187 lignes exportées         <
+. . export de la table      MGMT_JOB_TYPE_MAX_VERSIONS        180 lignes exportées         <
+. . export de la table  MGMT_JOB_TYPE_PARAM_DSPLY_INFO        300 lignes exportées         <
+. . export de la table    MGMT_JOB_TYPE_PARAM_URI_INFO          7 lignes exportées         <
+. . export de la table          MGMT_JOB_TYPE_URI_INFO         99 lignes exportées         <
+. . export de la table            MGMT_JOB_USER_PARAMS         15 lignes exportées         <
+. . export de la table           MGMT_JOB_VALUE_PARAMS        180 lignes exportées         <
+. . export de la table                PARAM_VALUES_TAB        308 lignes exportées         <
+. . export de la table     MGMT_LAST_SYNC_LOAD_DETAILS          1 lignes exportées         <
+. . export de la table             MGMT_LAST_VIOLATION        675 lignes exportées         <
+. . export de la table    MGMT_LICENSABLE_TARGET_TYPES         49 lignes exportées         <
+. . export de la table       MGMT_LICENSE_CONFIRMATION          0 lignes exportées         <
+. . export de la table        MGMT_LICENSE_DEFINITIONS         59 lignes exportées         <
+. . export de la table           MGMT_LICENSED_TARGETS         10 lignes exportées         <
+. . export de la table         MGMT_LOADER_DESIGNATORS         40 lignes exportées         <
+. . export de la table              MGMT_LOADER_QTABLE          0 lignes exportées         <
+. . export de la table           MGMT_LOGIN_ASSISTANTS          2 lignes exportées         <
+. . export de la table    MGMT_MASTER_CHANGED_CALLBACK          1 lignes exportées         <
+. . export de la table                   MGMT_MESSAGES      23311 lignes exportées         <
+. . export de la table              MGMT_METADATA_SETS         76 lignes exportées         <
+. . export de la table      MGMT_METRIC_DEPENDENCY_DEF         16 lignes exportées         <
+. . export de la table              MGMT_METRIC_ERRORS        391 lignes exportées         <
+. . export de la table                    MGMT_METRICS      12796 lignes exportées         <
+. . export de la table     MGMT_METRICS_COMPOSITE_KEYS        121 lignes exportées         <
+. . export de la table                MGMT_METRICS_EXT         20 lignes exportées         <
+. . export de la table                MGMT_METRICS_RAW       4745 lignes exportées         <
+. . export de la table               MGMT_METRICS_1DAY       2485 lignes exportées         <
+. . export de la table              MGMT_METRICS_1HOUR       2575 lignes exportées         <
+. . export de la table            MGMT_METRIC_VERSIONS        273 lignes exportées         <
+. . export de la table        MGMT_MP_HOMEPAGE_REPORTS         30 lignes exportées         <
+. . export de la table         MGMT_NESTED_JOB_TARGETS        126 lignes exportées         <
+. . export de la table           MGMT_NOTIFICATION_LOG         23 lignes exportées         <
+. . export de la table             MGMT_NOTIFY_DEVICES          1 lignes exportées         <
+. . export de la table       MGMT_NOTIFY_DEV_SCHEDULES          1 lignes exportées         <
+. . export de la table       MGMT_NOTIFY_EMAIL_GATEWAY          1 lignes exportées         <
+. . export de la table     MGMT_NOTIFY_FORMAT_HANDLERS          6 lignes exportées         <
+. . export de la table        MGMT_NOTIFY_INPUT_QTABLE          0 lignes exportées         <
+. . export de la table    MGMT_NOTIFY_JOB_RULE_CONFIGS          1 lignes exportées         <
+. . export de la table           MGMT_NOTIFY_NOTIFYEES          6 lignes exportées         <
+. . export de la table            MGMT_NOTIFY_PROFILES          3 lignes exportées         <
+. . export de la table              MGMT_NOTIFY_QTABLE          0 lignes exportées         <
+. . export de la table              MGMT_NOTIFY_QUEUES         27 lignes exportées         <
+. . export de la table        MGMT_NOTIFY_RULE_CONFIGS         41 lignes exportées         <
+. . export de la table               MGMT_NOTIFY_RULES          7 lignes exportées         <
+. . export de la table           MGMT_NOTIFY_SCHEDULES          1 lignes exportées         <
+. . export de la table             MGMT_OMS_PARAMETERS         91 lignes exportées         <
+. . export de la table          MGMT_OPERATIONS_MASTER         25 lignes exportées         <
+. . export de la table                MGMT_OUI_ARU_MAP         27 lignes exportées         <
+. . export de la table           MGMT_PAF_APPLICATIONS         13 lignes exportées         <
+. . export de la table  MGMT_PAF_COMP_JOBTYPE_MAPPINGS          2 lignes exportées         <
+. . export de la table         MGMT_PAF_JOBTYPE_PARAMS         17 lignes exportées         <
+. . export de la table               MGMT_PAF_JOBTYPES          4 lignes exportées         <
+. . export de la table           MGMT_PAF_MSG_QTABLE_1          0 lignes exportées         <
+. . export de la table           MGMT_PAF_MSG_QTABLE_2          0 lignes exportées         <
+. . export de la table           MGMT_PAF_PARAM_GROUPS          6 lignes exportées         <
+. . export de la table             MGMT_PAF_PROCEDURES          7 lignes exportées         <
+. . export de la table           MGMT_PAF_TEXTUAL_DATA          7 lignes exportées         <
+. . export de la table                 MGMT_PARAMETERS         84 lignes exportées         <
+. . export de la table        MGMT_PDP_COLUMN_METADATA          3 lignes exportées         <
+. . export de la table               MGMT_PDP_METADATA          2 lignes exportées         <
+. . export de la table         MGMT_PDP_PARAM_METADATA          9 lignes exportées         <
+. . export de la table       MGMT_PDP_SETTING_METADATA          3 lignes exportées         <
+. . export de la table          MGMT_PERFORMANCE_NAMES        106 lignes exportées         <
+. . export de la table                   MGMT_POLICIES       3302 lignes exportées         <
+. . export de la table               MGMT_POLICY_ASSOC       1118 lignes exportées         <
+. . export de la table           MGMT_POLICY_ASSOC_CFG       1173 lignes exportées         <
+. . export de la table    MGMT_POLICY_ASSOC_CFG_PARAMS        716 lignes exportées         <
+. . export de la table  MGMT_POLICY_ASSOC_EVAL_DETAILS        456 lignes exportées         <
+. . export de la table     MGMT_POLICY_ASSOC_EVAL_SUMM        167 lignes exportées         <
+. . export de la table           MGMT_POLICY_BIND_VARS        169 lignes exportées         <
+. . export de la table          MGMT_POLICY_PARAMETERS         27 lignes exportées         <
+. . export de la table       MGMT_POLICY_TYPE_VERSIONS        585 lignes exportées         <
+. . export de la table       MGMT_POLICY_VIOL_CTXT_DEF        642 lignes exportées         <
+. . export de la table                MGMT_PRIV_GRANTS        133 lignes exportées         <
+. . export de la table              MGMT_PRIV_INCLUDES         13 lignes exportées         <
+. . export de la table                      MGMT_PRIVS         24 lignes exportées         <
+. . export de la table               MGMT_PURGE_POLICY         16 lignes exportées         <
+. . export de la table         MGMT_PURGE_POLICY_GROUP          7 lignes exportées         <
+. . export de la table  MGMT_PURGE_POLICY_TARGET_STATE         36 lignes exportées         <
+. . export de la table            MGMT_REBUILD_INDEXES          1 lignes exportées         <
+. . export de la table     MGMT_REPOS_TIME_COEFFICIENT          0 lignes exportées         <
+. . export de la table                MGMT_ROLE_GRANTS          1 lignes exportées         <
+. . export de la table                      MGMT_ROLES          1 lignes exportées         <
+. . export de la table            MGMT_ROWSET_HANDLERS         14 lignes exportées         <
+. . export de la table         MGMT_RT_BOOTSTRAP_TIMES          5 lignes exportées         <
+. . export de la table                   MGMT_SEC_INFO          1 lignes exportées         <
+. . export de la table        MGMT_SNAPSHOT_METRIC_MAP        221 lignes exportées         <
+. . export de la table              MGMT_SPACE_METRICS          1 lignes exportées         <
+. . export de la table  MGMT_STORAGE_REPORT_UI_TARGETS
+. . export de la table       MGMT_STORAGE_TMP_NFS_DATA
+. . export de la table      MGMT_STRING_METRIC_HISTORY        110 lignes exportées         <
+. . export de la table     MGMT_SWLIB_DATA_DIRECTORIES          1 lignes exportées         <
+. . export de la table          MGMT_SWLIB_DIRECTORIES         88 lignes exportées         <
+. . export de la table             MGMT_SWLIB_ENTITIES        180 lignes exportées         <
+. . export de la table          MGMT_SWLIB_ENTITY_DATA        150 lignes exportées         <
+. . export de la table     MGMT_SWLIB_ENTITY_DOCUMENTS        364 lignes exportées         <
+. . export de la table    MGMT_SWLIB_ENTITY_PARAMETERS        180 lignes exportées         <
+. . export de la table    MGMT_SWLIB_ENTITY_REFERENCES          2 lignes exportées         <
+. . export de la table     MGMT_SWLIB_ENTITY_REVISIONS        182 lignes exportées         <
+. . export de la table      MGMT_SWLIB_MATURITY_STATUS          3 lignes exportées         <
+. . export de la table  MGMT_SWLIB_REVISION_PARAMETERS        728 lignes exportées         <
+. . export de la table           MGMT_SYSTEM_ERROR_LOG          2 lignes exportées         <
+. . export de la table     MGMT_SYSTEM_PERFORMANCE_LOG        345 lignes exportées         <
+. . export de la table       MGMT_TARGET_ADD_CALLBACKS         13 lignes exportées         <
+. . export de la table          MGMT_TARGET_ASSOC_DEFS         15 lignes exportées         <
+. . export de la table         MGMT_TARGET_ASSOC_ERROR          4 lignes exportées         <
+. . export de la table              MGMT_TARGET_ASSOCS          6 lignes exportées         <
+. . export de la table        MGMT_TARGET_ASSOC_STATUS          4 lignes exportées         <
+. . export de la table         MGMT_TARGET_CREDENTIALS          1 lignes exportées         <
+. . export de la table   MGMT_TARGET_DELETE_EXCEPTIONS         35 lignes exportées         <
+. . export de la table           MGMT_TARGET_PROP_DEFS        288 lignes exportées         <
+. . export de la table          MGMT_TARGET_PROPERTIES        203 lignes exportées         <
+. . export de la table        MGMT_TARGET_ROLLUP_TIMES        130 lignes exportées         <
+. . export de la table                    MGMT_TARGETS          5 lignes exportées         <
+. . export de la table           MGMT_TARGET_TEMP_LIST
+. . export de la table  MGMT_TARGET_TYPE_COMPONENT_MAP          5 lignes exportées         <
+. . export de la table               MGMT_TARGET_TYPES         28 lignes exportées         <
+. . export de la table       MGMT_TARGET_TYPE_VERSIONS         37 lignes exportées         <
+. . export de la table                MGMT_TASK_QTABLE         28 lignes exportées         <
+. . export de la table         MGMT_TASK_WORKER_COUNTS          2 lignes exportées         <
+. . export de la table            MGMT_TYPE_PROPERTIES         75 lignes exportées         <
+. . export de la table             MGMT_USER_CALLBACKS         27 lignes exportées         <
+. . export de la table                   MGMT_USER_CAS          2 lignes exportées         <
+. . export de la table               MGMT_USER_CONTEXT          4 lignes exportées         <
+. . export de la table               MGMT_USER_FOLDERS         24 lignes exportées         <
+. . export de la table                  MGMT_USER_JOBS          0 lignes exportées         <
+. . export de la table           MGMT_USER_REPORT_DEFS          0 lignes exportées         <
+. . export de la table      MGMT_USER_SUBTAB_COL_PREFS         41 lignes exportées         <
+. . export de la table               MGMT_USER_TARGETS          0 lignes exportées         <
+. . export de la table             MGMT_USER_TEMPLATES          0 lignes exportées         <
+. . export de la table      MGMT_V_CLUSTER_MEMBER_LIST
+. . export de la table   MGMT_V_CLUSTER_RAC_POL_DETAIL
+. . export de la table                   MGMT_VERSIONS          5 lignes exportées         <
+. . export de la table      MGMT_VIEW_USER_CREDENTIALS          1 lignes exportées         <
+. . export de la table          MGMT_VIOLATION_CONTEXT        215 lignes exportées         <
+. . export de la table                 MGMT_VIOLATIONS       1182 lignes exportées         <
+. . export de la table    MGMT_V_RAC_ASSOC_MEMBER_LIST
+. . export de la table          MGMT_V_RAC_MEMBER_LIST
+. Prêt à exporter les tables MGMT_VIEW ... via le chemin classique...
+. Prêt à exporter les tables SCOTT ... via le chemin classique...
+. . export de la table                            DEPT          4 lignes exportées         <
+. . export de la table                             EMP         11 lignes exportées         <
+. . export de la table                        SALGRADE          7 lignes exportées         <
+. . export de la table               TRT_BATCH_PAYE_01          2 lignes exportées         <
+. Prêt à exporter les tables ADMIN ... via le chemin classique...
+. Prêt à exporter les tables DEVEL ... via le chemin classique...
+. Prêt à exporter les tables AIR ... via le chemin classique...
+. . export de la table                           AVION          5 lignes exportées         <
+. . export de la table                   COMPETENT_IOT          0 lignes exportées         <
+. . export de la table                          PILOTE          3 lignes exportées         <
+. . export de la table                             VOL          8 lignes exportées         <
+. . export de la table                         VOLPIL#
+. . export de la table                        VOLPIL##
+. Prêt à exporter les tables GESCOM ... via le chemin classique...
+. Prêt à exporter les tables UTIL ... via le chemin classique...
+. export des synonymes
+. export des vues
+. export des contraintes d'intégrité référentielle
+. export des procédures stockées
+. export des opérateurs
+. export des types d'index
+. export des index bitmap, fonctionnels et extensibles
+. export des actions post-tables
+. export des déclencheurs
+. export des vues matérialisées
+. export des journaux de clichés
+. export  des files d'attente de travaux
+. export des groupes de régénération et fils
+. export des dimensions
+. export des actions et objets procéduraux de post-schéma
+. export des table historique utilisateur
+. export des valeurs par défaut et options d'analyse du système
+. export des statistiques
+Procédure d'export terminée avec succès sans avertissements.

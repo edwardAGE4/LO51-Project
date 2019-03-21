@@ -1,0 +1,12 @@
+
+Connecté à : Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - Production
+With the Partitioning and Real Application Testing options
+
+Fichier d'export créé par EXPORT:V11.02.00 via le chemin classique
+import effectué dans le jeu de caractères WE8MSWIN1252 et le jeu NCHAR AL16UTF16
+. Import d'objets SCOTT dans SCOTT
+. Import d'objets SCOTT dans SCOTT
+. . Import de la table                          "DEPT"          4 lignes importées       <
+. . Import de la table                           "EMP"         11 lignes importées       <
+Début de l'activation des contraintes...
+Procédure d'import terminée avec succès sans avertissements.

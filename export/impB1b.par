@@ -1,0 +1,6 @@
+USERID=scott/TIGER
+File= c:\backup\export\exp1\expsco01.dmp
+Log= c:\backup\export\exp1\impsco01b.log
+ROWS=Y
+Ignore=N
+buffer=100000

@@ -1,0 +1,9 @@
+USERID=air/air
+File= c:\backup\export\expair.dmp
+Log= c:\backup\export\impair02.log
+buffer=100000
+ROWS=Y
+ignore=Y
+Indexes=N
+Constraints=N
+Grants=N

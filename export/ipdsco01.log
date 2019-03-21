@@ -1,0 +1,25 @@
+;;; 
+Import: Release 11.2.0.1.0 - Production on Mer. Nov. 6 12:17:21 2013
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+;;; 
+Connecté à : Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - Production
+With the Partitioning and Real Application Testing options
+Table maître "SCOTT"."SYS_IMPORT_FULL_01" chargée/déchargée avec succès
+Démarrage de "SCOTT"."SYS_IMPORT_FULL_01" : scott/******** parfile=C:\backup\datapump\impdpA1.par 
+Traitement du type d'objet SCHEMA_EXPORT/PRE_SCHEMA/PROCACT_SCHEMA
+Traitement du type d'objet SCHEMA_EXPORT/SYNONYM/SYNONYM
+ORA-31684: Le type d'objet SYNONYM:"SCOTT"."SYN_PILOTE" existe déjà
+Traitement du type d'objet SCHEMA_EXPORT/TABLE/TABLE
+ORA-39151: La table "SCOTT"."SALGRADE" existe. Toutes les métadonnées et données dépendantes seront sautées en raison de l'action table_exists_action de skip
+ORA-39151: La table "SCOTT"."TRT_BATCH_PAYE_01" existe. Toutes les métadonnées et données dépendantes seront sautées en raison de l'action table_exists_action de skip
+ORA-39151: La table "SCOTT"."DEPT" existe. Toutes les métadonnées et données dépendantes seront sautées en raison de l'action table_exists_action de skip
+ORA-39151: La table "SCOTT"."EMP" existe. Toutes les métadonnées et données dépendantes seront sautées en raison de l'action table_exists_action de skip
+Traitement du type d'objet SCHEMA_EXPORT/TABLE/TABLE_DATA
+Traitement du type d'objet SCHEMA_EXPORT/TABLE/GRANT/OWNER_GRANT/OBJECT_GRANT
+Traitement du type d'objet SCHEMA_EXPORT/TABLE/INDEX/INDEX
+Traitement du type d'objet SCHEMA_EXPORT/TABLE/CONSTRAINT/CONSTRAINT
+Traitement du type d'objet SCHEMA_EXPORT/TABLE/INDEX/STATISTICS/INDEX_STATISTICS
+Traitement du type d'objet SCHEMA_EXPORT/TABLE/CONSTRAINT/REF_CONSTRAINT
+Traitement du type d'objet SCHEMA_EXPORT/TABLE/STATISTICS/TABLE_STATISTICS
+Travail "SCOTT"."SYS_IMPORT_FULL_01" terminé avec 5 erreur(s) à 12:17:25

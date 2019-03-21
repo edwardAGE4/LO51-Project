@@ -1,0 +1,37 @@
+
+Connecté à : Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - Production
+With the Partitioning and Real Application Testing options
+Export fait dans le jeu de car WE8MSWIN1252 et jeu de car NCHAR AL16UTF16
+. export des actions et objets procéduraux de pré-schéma
+. export des noms de bibliothèque de fonctions étrangères pour l'utilisateur AIR 
+. export des synonymes de type PUBLIC
+. export des synonymes de type PRIVATE
+. export des définitions de type d'objet pour l'utilisateur AIR 
+Prêt à exporter les objets AIR ...
+. export des liens de base de données (DATABASE LINKS)
+. export des numéros de séquence
+. export des définitions de cluster
+. Prêt à exporter les tables AIR ... via le chemin classique...
+. . export de la table                           AVION          5 lignes exportées         <
+. . export de la table                   COMPETENT_IOT          0 lignes exportées         <
+. . export de la table                          PILOTE          3 lignes exportées         <
+. . export de la table                             VOL          8 lignes exportées         <
+. . export de la table                         VOLPIL#
+. . export de la table                        VOLPIL##
+. export des synonymes
+. export des vues
+. export des procédures stockées
+. export des opérateurs
+. export des contraintes d'intégrité référentielle
+. export des déclencheurs
+. export des types d'index
+. export des index bitmap, fonctionnels et extensibles
+. export des actions post-tables
+. export des vues matérialisées
+. export des journaux de clichés
+. export  des files d'attente de travaux
+. export des groupes de régénération et fils
+. export des dimensions
+. export des actions et objets procéduraux de post-schéma
+. export des statistiques
+Procédure d'export terminée avec succès sans avertissements.

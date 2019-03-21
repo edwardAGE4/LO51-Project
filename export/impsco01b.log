@@ -1,0 +1,33 @@
+
+Connecté à : Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - Production
+With the Partitioning and Real Application Testing options
+
+Fichier d'export créé par EXPORT:V11.02.00 via le chemin classique
+import effectué dans le jeu de caractères WE8MSWIN1252 et le jeu NCHAR AL16UTF16
+. Import d'objets SCOTT dans SCOTT
+IMP-00015: Echec de l'instruction suivante car l'objet existe déjà :
+ "CREATE TABLE "DEPT" ("DEPTNO" NUMBER(2, 0), "DNAME" VARCHAR2(14), "LOC" VAR"
+ "CHAR2(13))  PCTFREE 10 PCTUSED 40 INITRANS 1 MAXTRANS 255 STORAGE(INITIAL 6"
+ "5536 NEXT 1048576 MINEXTENTS 1 FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DE"
+ "FAULT)                    LOGGING NOCOMPRESS"
+IMP-00015: Echec de l'instruction suivante car l'objet existe déjà :
+ "CREATE TABLE "EMP" ("EMPNO" NUMBER(4, 0), "ENAME" VARCHAR2(10), "JOB" VARCH"
+ "AR2(9), "MGR" NUMBER(4, 0), "HIREDATE" DATE, "SAL" NUMBER(7, 2), "COMM" NUM"
+ "BER(7, 2), "DEPTNO" NUMBER(2, 0))  PCTFREE 10 PCTUSED 40 INITRANS 1 MAXTRAN"
+ "S 255 STORAGE(INITIAL 65536 NEXT 1048576 MINEXTENTS 1 FREELISTS 1 FREELIST "
+ "GROUPS 1 BUFFER_POOL DEFAULT)                    LOGGING NOCOMPRESS"
+IMP-00015: Echec de l'instruction suivante car l'objet existe déjà :
+ "CREATE TABLE "SALGRADE" ("GRADE" NUMBER, "LOSAL" NUMBER, "HISAL" NUMBER)  P"
+ "CTFREE 10 PCTUSED 40 INITRANS 1 MAXTRANS 255 STORAGE(INITIAL 65536 NEXT 104"
+ "8576 MINEXTENTS 1 FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT)       "
+ "             LOGGING NOCOMPRESS"
+IMP-00015: Echec de l'instruction suivante car l'objet existe déjà :
+ "CREATE TABLE "TRT_BATCH_PAYE_01" ("EMPNO" NUMBER(4, 0), "ENAME" VARCHAR2(10"
+ "), "JOB" VARCHAR2(9), "MGR" NUMBER(4, 0), "HIREDATE" DATE, "SAL" NUMBER(7, "
+ "2), "COMM" NUMBER(7, 2), "DEPTNO" NUMBER(2, 0))  PCTFREE 10 PCTUSED 40 INIT"
+ "RANS 1 MAXTRANS 255 STORAGE(INITIAL 65536 NEXT 1048576 MINEXTENTS 1 FREELIS"
+ "TS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT)                    LOGGING NOCO"
+ "MPRESS"
+IMP-00015: Echec de l'instruction suivante car l'objet existe déjà :
+ "CREATE SYNONYM "SYN_PILOTE" FOR "AIR"."PILOTE""
+Fin de l'import réussie avec avertissements.

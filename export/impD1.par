@@ -1,0 +1,3 @@
+USERID=scott/TIGER
+File=c:\backup\export\expC1.dmp
+Log=c:\backup\export\impD01.log

@@ -1,0 +1,6 @@
+USERID=scott/TIGER
+Directory=export_dp
+INCLUDE=TABLE:"IN('EMP','DEPT')"
+dumpfile=edpsco02.dmp
+Logfile=edpsco02.log
+Content=all

@@ -1,0 +1,6 @@
+USERID=scott/TIGER
+Directory=export_dp
+dumpfile=edpsco01.dmp
+Logfile=ipdsco01.log
+table_exists_action=TRUNCATE
+content=all

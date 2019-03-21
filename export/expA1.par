@@ -1,0 +1,6 @@
+USERID=scott/TIGER
+File= c:\backup\export\expsco01.dmp
+Log= c:\backup\export\expsco01.log
+Rows=Y
+Statistics=None
+Buffer=100000 

@@ -1,0 +1,6 @@
+USERID=system/dbamanager
+Directory=export_dp
+dumpfile=edpfull.dmp
+Logfile=edpfull.log
+full=y
+job_name=export_complet

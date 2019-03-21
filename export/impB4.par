@@ -1,0 +1,7 @@
+USERID=system/dbamanager
+File= c:\backup\export\exp4\expfull.dmp
+Log= c:\backup\import\imp4\impfull_create_user.sql
+show=Y
+full=Y
+Ignore=Y
+buffer=100000

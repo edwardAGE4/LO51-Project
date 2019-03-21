@@ -1,0 +1,7 @@
+USERID=scott/TIGER
+Directory=export_dp
+dumpfile=edpsco03.dmp
+Logfile=edpsco03.log
+INCLUDE=TABLE:"IN('EMP','DEPT')"
+QUERY="where deptno=10"
+Content=all

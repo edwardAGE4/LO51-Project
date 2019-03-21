@@ -1,0 +1,6 @@
+USERID=air/air
+File= c:\backup\export\expair\expair.dmp
+Log= c:\backup\import\impair\impair.log
+show=Y
+Ignore=Y
+buffer=100000

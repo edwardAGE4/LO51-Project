@@ -1,0 +1,7 @@
+USERID=scott/TIGER
+File= c:\backup\export\exp2\expsco02.dmp
+Log= c:\backup\export\exp2\impsco02.log
+TABLES=dept,emp
+ROWS=Y
+Ignore=Y
+buffer=100000
